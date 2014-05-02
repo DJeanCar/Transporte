@@ -8,6 +8,7 @@ SECRET_KEY = '4+jlejsf8yn2040eq)zx=1&=6e!4+q6fvlb$rp4j^i6_#n(@z-'
 LOCAL_APPS = (
 		'apps.home',
 		'apps.users',
+        'apps.company',
         'apps.clients',
 	)
 
